@@ -1,0 +1,7 @@
+﻿  EternalModz-Minecraft-Seed-Generator.cpp
+C:\Users\EternalModz\source\repos\EternalModz-Minecraft-Seed-Generator\EternalModz-Minecraft-Seed-Generator\EternalModz-Minecraft-Seed-Generator.cpp(73,82): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  EternalModz-Minecraft-Seed-Generator.vcxproj -> C:\Users\EternalModz\source\repos\EternalModz-Minecraft-Seed-Generator\x64\Debug\EternalModz-Minecraft-Seed-Generator.exe
